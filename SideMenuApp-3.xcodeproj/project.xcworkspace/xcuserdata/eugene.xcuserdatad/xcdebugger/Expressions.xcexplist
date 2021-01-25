@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ContainerController.handleMenuToggle():ContainerController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isMenuExpanded">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeController.handleTap():HomeController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isMenuExpanded">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
